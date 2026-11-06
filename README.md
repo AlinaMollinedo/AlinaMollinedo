@@ -1,6 +1,9 @@
 # hello there!!
 
-**I'm Alina, a Systems Engineering Student!**
+<div align="center">
+  <h2>I'm Alina, a Systems Engineering Student!</h2>
+  <img src="miku-eyes.gif" width="500">
+</div>
 
 I like figuring out how things work, taking things apart (conceptually... mostly), and turning little ideas into things that actually work. I love exploring the world of software, experimenting with different technologies, and finding the logic behind everyday things.
 
@@ -9,9 +12,6 @@ You'll find a little bit of everything around here: projects, experiments, thing
 Currently learning, building, breaking things, and putting them back together.
 
 hope you find something interesting!
-
-![mikumiku](miku-eyes.gif)
-
 
 ## A little bit about me
 
@@ -92,4 +92,8 @@ A mobile application for managing shared events, groups, and social connections,
 **Tech:** Flutter, Dart, Supabase, Figma.
 
 [View Repository](https://github.com/SaiPlusSai/Cocal-Personal.git)
+
+---
+
+thanks for passing by!!
 
