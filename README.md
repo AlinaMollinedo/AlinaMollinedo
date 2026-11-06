@@ -1,17 +1,49 @@
-# Hello there! 
+# hello there!!
 
-**I'm Alina, a Systems Engineering Student**
+**I'm Alina, a Systems Engineering Student!**
 
-I'm interested in software engineering, particularly application development, algorithms, and building practical solutions to real-world problems. I enjoy exploring different technologies and collaborating on projects that combine problem-solving with thoughtful user experiences.
+I like figuring out how things work, taking things apart (conceptually... mostly), and turning little ideas into things that actually work. I love exploring the world of software, experimenting with different technologies, and finding the logic behind everyday things.
 
---- 
+You'll find a little bit of everything around here: projects, experiments, things I'm learning, and probably a few happy accidents along the way.
+
+Currently learning, building, breaking things, and putting them back together.
+
+hope you find something interesting!
+
+![mikumiku](miku-eyes.gif)
+
+
+## A little bit about me
+
+- fluent in spanish & english, currently learning japanese!
+- i enjoy working with javascript, css, vue.js, and node.js
+- big fan of creative things: music, anime, books, videogames, and pretty much anything that sparks inspiration :)
+
+---
 
 ## Technical Skills
 
-- Languages: Python, Java, C++, JavaScript, Dart
-- Frameworks & Libraries: Vue.js, Vuetify, Flutter, Spring Boot
-- Backend & Databases: Node.js, Supabase, PostgreSQL
-- Tools: Git, GitHub, Figma
+### Languages
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
+[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+### Frameworks & Libraries
+[![Vue.js](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
+[![Vuetify](https://skillicons.dev/icons?i=vuetify)](https://vuetifyjs.com/)
+[![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/)
+[![Spring Boot](https://skillicons.dev/icons?i=spring)](https://spring.io/projects/spring-boot)
+
+### Backend & Databases
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
+[![Supabase](https://skillicons.dev/icons?i=supabase)](https://supabase.com/)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
+
+### Tools
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
+[![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
 
 ---
 
@@ -61,9 +93,3 @@ A mobile application for managing shared events, groups, and social connections,
 
 [View Repository](https://github.com/SaiPlusSai/Cocal-Personal.git)
 
----
-
-## Languages
-
-- Spanish: Native
-- English: Advanced
